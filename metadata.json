@@ -1,0 +1,6 @@
+{
+  "name": "Product Intelligence Dash",
+  "description": "Smart Amazon Product Comparison Agent with multi-agent orchestration, review analysis, and ML price forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
